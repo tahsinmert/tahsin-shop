@@ -1,4 +1,8 @@
+<div align="center">
+
 # 🎨 Tahsin Shop
+
+![Tahsin Shop Logo](./static/favicon.png)
 
 > **A high-end, experimental e-commerce frontend that redefines digital commerce through cinematic fluidity and micro-interactions.**
 
@@ -9,6 +13,8 @@
 
 <!-- Add your high-quality GIF/Banner here -->
 <!-- ![Tahsin Shop Banner](./banner.gif) -->
+
+</div>
 
 **Tahsin Shop** is not just an e-commerce site—it's a portfolio masterpiece that showcases the future of web design. Built with cutting-edge technologies and a focus on "vibe" over function, this project demonstrates how emotion and artistry can transform digital commerce into an unforgettable experience.
 
